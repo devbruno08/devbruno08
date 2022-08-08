@@ -14,13 +14,13 @@
   <img align="right" src="https://cdn.discordapp.com/attachments/1006179843072872579/1006179980163690536/U9eU.gif">
 </figure>
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/devbruno08">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devbruno08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbruno08&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
-<div align="right" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
     <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Bruno-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
