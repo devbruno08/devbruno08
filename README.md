@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Bruno...🧙🏻‍</h1>
 
 <p>
-  Apaixonado por tecnologia desde muito cedo. Busco aprender linguagens de programação e ferramentas que possam auxiliar nos meus projetos e aumentar o meu nível de   conhecimento.
+  Apaixonado por tecnologia desde muito cedo. Busco aprender linguagens de programação e ferramentas que possam auxiliar nos projetos e aumentar o meu nível de   conhecimento.
 
   - 💻 Atualmente faço parte do curso de desenvolvimento FullStack na BlueEdtech
   - 📚 Tenho um enorme interesse pela licenciatura, e pretendo passar o meu conhecimento para muitas pessoas 
